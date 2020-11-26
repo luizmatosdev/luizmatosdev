@@ -2,7 +2,7 @@
 ### Seja bem vindo ao meu perfil!
 
 Sou um dev Fullstack apaixonando pelo que faço!
-- No momento estudando focado Javascript com Nodejs e React :computer:
+- No momento estudando focado em Typescript com Nodejs e React :computer:
 - Aprendendo bastante com a RockerSeat :rocket:
 - Para passar o tempo, estudando e criando alguns jogos na Unity :video_game:
 
