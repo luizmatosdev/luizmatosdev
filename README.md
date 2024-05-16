@@ -9,6 +9,6 @@ Sou um dev Fullstack apaixonando pelo que faço!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizeduardomatos/)](https://www.linkedin.com/in/luizeduardomatos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizmatosedu@gmail.com)](mailto:luizmatosedu@gmail.com)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=eduardomatos88&show_icons=true&count_private=true&theme=vue)](https://github.com/luizmatosdev)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=luizmatosdev&show_icons=true&count_private=true&theme=vue)](https://github.com/luizmatosdev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomatos88&layout=compact)](https://github.com/luizmatosdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmatosdev&layout=compact)](https://github.com/luizmatosdev)
