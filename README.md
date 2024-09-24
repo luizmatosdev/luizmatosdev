@@ -1,10 +1,7 @@
 ## Luiz Eduardo
 ### Seja bem vindo ao meu perfil!
 
-Sou um dev Fullstack apaixonando pelo que faço!
-- No momento estudando focado em Typescript com Nodejs e React :computer:
-- Aprendendo bastante com a RockerSeat :rocket:
-- Para passar o tempo, estudando e criando alguns jogos na Unity :video_game:
+Desenvolvedor full stack com ampla experiência em projetos no setor bancário e financeiro. Sólido conhecimento em práticas avançadas de programação, com ênfase na escrita de código limpo, aplicação de padrões de projeto e uso de princípios como DDD e SOLID. Experiência no uso de ORMs, scripts SQL, testes unitários e testes de performance. Familiaridade com ferramentas como Figma, além de experiência em design de interfaces (UI/UX), CSS, SASS, metodologias ágeis e práticas de CI/CD.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizeduardomatos/)](https://www.linkedin.com/in/luizeduardomatos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizmatosedu@gmail.com)](mailto:luizmatosedu@gmail.com)
